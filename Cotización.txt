@@ -1,0 +1,34 @@
+http://www.microjpm.com/products/sparkfun-usb-to-serial-breakout-ft232rl/      		$13.95
+http://www.microjpm.com/products/microcontrolador-atmega328p/                 		$6.25
+http://www.microjpm.com/products/a16-mhz-cristal-hc/			       		$0.95
+http://www.microjpm.com/products/lm7805/				       		$0.60
+http://www.microjpm.com/products/led-rgb-alta-luminosidad-5mm-catodo-comun/    		$1.00     x2
+resistencias 220O							       		$0.10     x2
+resistencia  110O							       		$0.05   
+capacitor    10 µF							       		$1.30     x2
+http://www.microjpm.com/products/a22pf-50v-capacitor-ceramico/ 		       		$0.50     x2
+http://www.microjpm.com/products/push-button-4-pines/			       		$0.15 
+http://www.microjpm.com/products/a90mm-x-150mm-placa-cobre-perforada-dos-caras/    	$5.95
+http://www.microjpm.com/products/base-28-pines-dip-pcb/					$0.50
+---------------------------------------------------------------------------------------------
+Total									       		$31.30
+
+
+http://www.microjpm.com/products/clip-para-bateria-9v-/
+http://www.microjpm.com/products/bst-9v-beston-bateria-alkalina-6f22-9v/
+
+
+
+
+Sensores
+http://www.microjpm.com/products/dht11-humidity-temperature-sensor/			        $3.95
+http://www.microjpm.com/products/bmp280-barometric-pressure-temperature-sensor-breakout/	$5.95
+http://www.microjpm.com/products/mh-rd-rain-detector-module-sensor/				$7.50
+http://www.microjpm.com/products/adaptador-de-conector-hembra-a-barril-dc/			$2.05
+http://www.microjpm.com/products/a50mm-x-70mm-placa-cobre-perforada-2-caras/			$2.10
+--------------------------------------------------------------------------------------------------------
+Total												$21.55
+
+
+
+
